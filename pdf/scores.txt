@@ -3,8 +3,8 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
      CLUB................     -- club --
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
-     DATE................   05-31-2022
-     TIME................   22:24:38
+     DATE................   06-01-2022
+     TIME................   14:28:20
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -138,6 +138,9 @@ MENS & LADIES SCORES USED TO COMPUTE HANDICAP
  
  CONWAY, KEN        10L   9.1L n/a  n/a  n/a   47   47@  54   45@  49   53   48 
                                 45@  49   44@  47@  50   48   49   47@  51   44@
+ 
+ COOLEY, JOHN        9L   7.7L n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a  n/a 
+                               n/a  n/a  n/a  n/a  n/a   44   44   44   45   44@
  
  COOPER, ART        16L  14.5L  56   53@  53@  58   52@  49@  53@  51@  55   56 
                                 58   56   51@  58   60   58   54@  58   51@  52@
@@ -1004,8 +1007,8 @@ MENS & LADIES HANDICAPS IN ALPHABETICAL ORDER
      CLUB................     -- club --
      CHAIRMAN............   Dave Daniels
      PRO.................   Brent Jones
-     DATE................   05-31-2022
-     TIME................   22:24:58
+     DATE................   06-01-2022
+     TIME................   14:28:41
      HOLES...............    9
      HANDICAP............   25 STROKE MAXIMUM
  
@@ -1052,6 +1055,7 @@ CHURCHILL, BOB        (    0 )  SLOPE H/C INDEX:  11.5L, PRE-SLOPE H/C:  13L
 COLBERT, JEFF         (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  10L 
 COLDICUTT, CHRIS      (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  18L 
 CONWAY, KEN           (    0 )  SLOPE H/C INDEX:   9.1L, PRE-SLOPE H/C:  10L 
+COOLEY, JOHN          (    0 )  SLOPE H/C INDEX:   7.7L, PRE-SLOPE H/C:   9L 
 COOPER, ART           ( 2102 )  SLOPE H/C INDEX:  14.5L, PRE-SLOPE H/C:  16L 
 CORBETT, RANDY        (    0 )  SLOPE H/C INDEX:   N/A , PRE-SLOPE H/C:  12L 
 CORCORAN, CASEY       (    0 )  SLOPE H/C INDEX:   7.7L, PRE-SLOPE H/C:   9L 
